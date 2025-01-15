@@ -20,11 +20,10 @@ if st.session_state.run_once:
     logo_holder = st.empty()
 
     with logo_holder.container():
-        #lottie_path = 'static/animation_logo.json'
-        lottie_path = 'static/logo_bida.json'
+        lottie_path = 'static/soccer.json'
         lottie_json = json.load(open(lottie_path))
 
-        col1, col2, col3 = st.columns(3)
+        col1, col2, col3 = st.columns([1,3,1])
         with col1:
             st.write(' ')
         with col2:
@@ -32,7 +31,7 @@ if st.session_state.run_once:
         with col3:
             st.write(' ')
 
-        #time.sleep(2)
+        time.sleep(2)
 
     logo_holder.empty()
     st.session_state.run_once = False

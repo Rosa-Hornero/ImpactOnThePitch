@@ -1,0 +1,36 @@
+# Archivos y carpetas generales
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración de entorno virtual
+env/
+venv/
+.venv/
+ENV/
+ENV.bak/
+
+# Archivos de configuración específicos del sistema
+*.DS_Store
+*.log
+*.sqlite3
+
+# Archivos sensibles (añádelos si los usas)
+*.env
+config.json
+
+# Archivos de datos
+*.csv
+*.xlsx
+*.json
+
+# Archivos grandes que no quieras subir
+*.zip
+*.tar.gz
+
+# Archivos específicos de herramientas
+.ipynb_checkpoints/
+
+# Archivos creados por Streamlit 
+.streamlit/

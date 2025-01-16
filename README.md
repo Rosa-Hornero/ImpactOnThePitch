@@ -108,5 +108,10 @@ If you want to run the app locally, follow the steps below.
 We welcome contributions! Please feel free to submit pull requests or report issues.
 
 ## Contact
+If you have any questions or suggestions about this project, feel free to reach out:
+ach out:
 
-For any questions or feedback, reach out at [rosa.hornero1@gmail.com].
+- Email: [rosa.hornero1@gmail.com]
+- LinkedIn: [[https://x.com/hornero_rosa](https://www.linkedin.com/in/rosa-hornero/)]
+- Twitter: [https://x.com/hornero_rosa]
+

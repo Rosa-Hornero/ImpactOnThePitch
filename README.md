@@ -88,9 +88,9 @@ If you want to run the app locally, follow the steps below.
 ## Project Structure
 - **`static/`**
   - **`images/`**: Images, icons, and visual resources.
-  - player_injuries_impact.csv: CSV files containing teams statistics and data.
+  - `player_injuries_impact.csv`: CSV files containing teams statistics and data.
 - **`utils/`**: key functions.
 - **`views/`**: app navigation pages.
-- **main.py**: app main page.
+- **`main.py`**: app main page.
 - `requirements.txt`: Project dependencies.
 - `README.md`: Project documentation.

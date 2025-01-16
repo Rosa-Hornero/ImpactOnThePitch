@@ -47,7 +47,8 @@ Use our interactive tools to uncover patterns, trends, and the hidden impact of 
 ---
 
 ## Try the App
-Click here ([https://your-streamlit-app-url.streamlit.app/](https://impactonthepitch.streamlit.app/) to access the live app.
+
+Click here [https://your-streamlit-app-url.streamlit.app/](https://impactonthepitch.streamlit.app/) to access the live app.
 
 ---
 

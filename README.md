@@ -63,7 +63,7 @@ If you want to run the app locally, follow the steps below.
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/your-repo.git](https://github.com/Rosa-Hornero/ImpactOnThePitch.git)
+   git clone https://github.com/Rosa-Hornero/ImpactOnThePitch.git
    ```
    
 2. Navigate to the project directory:

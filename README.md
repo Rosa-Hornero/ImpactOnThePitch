@@ -54,7 +54,7 @@ If you want to see more, don't forget to check it out at [ImpactOnThePitch](http
 
 ## Try the App
 
-Click here [https://your-streamlit-app-url.streamlit.app/](https://impactonthepitch.streamlit.app/) to access the live app.
+Click [here](https://impactonthepitch.streamlit.app/) to access the live app.
 
 ---
 

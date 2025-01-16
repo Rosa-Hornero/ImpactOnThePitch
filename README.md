@@ -94,3 +94,13 @@ If you want to run the app locally, follow the steps below.
 - **`main.py`**: app main page.
 - `requirements.txt`: Project dependencies.
 - `README.md`: Project documentation.
+
+---
+
+## Contributing
+
+We welcome contributions! Please feel free to submit pull requests or report issues.
+
+## Contact
+
+For any questions or feedback, reach out at [rosa.hornero1@gmail.com].

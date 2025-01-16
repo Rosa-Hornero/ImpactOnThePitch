@@ -42,6 +42,8 @@ Use our interactive tools to uncover patterns, trends, and the hidden impact of 
 - Interactive interface to explore statistics.
 
 ### Here’s a quick look at the app:
+Here is a small sample of what you can see in the APP.  In the first two images you can see statistics of Arsenal as a team in the 2019/20 season. In the third one you can see statistics of a specific player of arsenal, Bernd Leno, who had an injury that season.
+
 ![App Screenshot1](static/images/app_preview1.png)
 
 ![App Screenshot12](static/images/app_preview12.png)

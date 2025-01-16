@@ -24,12 +24,11 @@ This platform explores a detailed dataset covering the impact of player absences
 Data Highlights:
 - Insights on Key Clubs: Analyze how teams adapt when key players are sidelined.
 - Performance Metrics: Compare pre- and post-injury match ratings and statistics.
-  
-Extensive Sources:
-- Transfer Market: Injury records and durations.
-- Football Critic: Player ratings for impacted matches.
-- Sky Sports: Supplemental match statistics and performance data.
-- Link to dataset: [Player Injuries and Team Performance Dataset](https://www.kaggle.com/datasets/amritbiswas007/player-injuries-and-team-performance-dataset/data)
+- Extensive Sources:
+  - Transfer Market: Injury records and durations.
+  - Football Critic: Player ratings for impacted matches.
+  - Sky Sports: Supplemental match statistics and performance data.
+  - Link to dataset: [Player Injuries and Team Performance Dataset](https://www.kaggle.com/datasets/amritbiswas007/player-injuries-and-team-performance-dataset/data)
 
 Use our interactive tools to uncover patterns, trends, and the hidden impact of injuries on the beautiful game.
 

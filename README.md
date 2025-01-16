@@ -7,7 +7,7 @@ This application provides an in-depth analysis of player injuries and their impa
 ## Table of Contents
 - [Introduction](#introduction)
 - [Preview of the Application](#preview-of-the-application)
-- [Try the App](try-the-app)
+- [Try the App](#try-the-app)
 - [How to Use](#how-to-use)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)

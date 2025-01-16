@@ -11,8 +11,6 @@ This application provides an in-depth analysis of player injuries and their impa
 - [How to Use](#how-to-use)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## Introduction

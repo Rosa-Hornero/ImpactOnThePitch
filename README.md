@@ -48,7 +48,7 @@ Use our interactive tools to uncover patterns, trends, and the hidden impact of 
 
 ## Try the App
 
-Click [here]([https://your-streamlit-app-url.streamlit.app/](https://impactonthepitch.streamlit.app/)) to access the live app.
+Click here ([https://your-streamlit-app-url.streamlit.app/](https://impactonthepitch.streamlit.app/) to access the live app.
 
 ---
 
@@ -60,11 +60,10 @@ If you want to run the app locally, follow the steps below.
 - Python >= 3.8
 - Required libraries (detailed in `requirements.txt`).
 
-### Instalatiob
-
+### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone [https://github.com/yourusername/your-repo.git](https://github.com/Rosa-Hornero/ImpactOnThePitch.git)
    ```
    
 2. Navigate to the project directory:

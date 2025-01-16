@@ -42,7 +42,11 @@ Use our interactive tools to uncover patterns, trends, and the hidden impact of 
 - Interactive interface to explore statistics.
 
 ### Here’s a quick look at the app:
-![App Screenshot](static/images/app_preview1.png)
+![App Screenshot1](static/images/app_preview1.png)
+
+![App Screenshot12](static/images/app_preview12.png)
+
+![App Screenshot2](static/images/app_preview2.png)
 
 ---
 

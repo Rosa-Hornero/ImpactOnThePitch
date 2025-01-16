@@ -81,4 +81,16 @@ If you want to run the app locally, follow the steps below.
    streamlit run main.py
    ```
 
-5. Open the browser at the specified URL, typically: `http://localhost:8501`.  
+5. Open the browser at the specified URL, typically: `http://localhost:8501`.
+
+---
+
+## Project Structure
+- **`static/`**
+  - **`images/`**: Images, icons, and visual resources.
+  - player_injuries_impact.csv: CSV files containing teams statistics and data.
+- **`utils/`**: key functions.
+- **`views/`**: app navigation pages.
+- **main.py**: app main page.
+- `requirements.txt`: Project dependencies.
+- `README.md`: Project documentation.

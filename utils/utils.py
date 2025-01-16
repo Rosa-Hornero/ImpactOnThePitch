@@ -6,7 +6,7 @@ import streamlit as st
 # Cargar datos
 @st.cache_data
 def load_data():
-    return pd.read_csv("../streamlit/static/player_injuries_impact.csv",  delimiter=',')
+    return pd.read_csv("../static/player_injuries_impact.csv",  delimiter=',')
 
 # Función para contar resultados
 def count_results(results):

@@ -42,7 +42,7 @@ Use our interactive tools to uncover patterns, trends, and the hidden impact of 
 - Gantt chart to identify periods with multiple injuries.
 - Interactive interface to explore statistics.
 
-Here’s a quick look at the app:
+### Here’s a quick look at the app:
 
 
 ---

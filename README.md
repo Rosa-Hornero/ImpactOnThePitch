@@ -100,6 +100,7 @@ If you want to run the app locally, follow the steps below.
 - **`main.py`**: app main page.
 - `requirements.txt`: Project dependencies.
 - `README.md`: Project documentation.
+- `LICENSE`: MIT License
 
 ---
 

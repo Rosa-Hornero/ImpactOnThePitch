@@ -29,6 +29,11 @@ This platform explores a detailed dataset covering the impact of player absences
   - **Sky Sports**: Supplemental match statistics and performance data.
   - **Link to dataset**: [Player Injuries and Team Performance Dataset](https://www.kaggle.com/datasets/amritbiswas007/player-injuries-and-team-performance-dataset/data)
 
+#### Data Source
+This project uses publicly available data under the [CC0 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).  
+The original dataset can be accessed [here](https://www.kaggle.com/datasets/amritbiswas007/player-injuries-and-team-performance-dataset/data).
+
+
 Use our interactive tools to uncover patterns, trends, and the hidden impact of injuries on the beautiful game.
 
 ---

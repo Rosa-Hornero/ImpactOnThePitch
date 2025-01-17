@@ -1,3 +1,6 @@
+# This project is licensed under the MIT License.
+# See the LICENSE file for more details.
+
 import streamlit as st
 
 import pandas as pd

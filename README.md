@@ -117,7 +117,6 @@ We welcome contributions! Please feel free to submit pull requests or report iss
 
 ## Contact
 If you have any questions or suggestions about this project, feel free to reach out:
-ach out:
 
 - Email: [rosa.hornero1@gmail.com](rosa.hornero1@gmail.com)
 - LinkedIn: [Rosa Hornero](https://www.linkedin.com/in/rosa-hornero/)

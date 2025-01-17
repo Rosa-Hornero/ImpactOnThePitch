@@ -1,3 +1,6 @@
+# This project is licensed under the MIT License.
+# See the LICENSE file for more details.
+
 from datetime import datetime
 
 import extra_streamlit_components as stx

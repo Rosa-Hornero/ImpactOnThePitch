@@ -11,6 +11,8 @@ This application provides an in-depth analysis of player injuries and their impa
 - [How to Use](#how-to-use)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
+- [License](#license)
+
 ---
 
 ## Introduction
@@ -115,4 +117,8 @@ ach out:
 - Email: [rosa.hornero1@gmail.com](rosa.hornero1@gmail.com)
 - LinkedIn: [Rosa Hornero](https://www.linkedin.com/in/rosa-hornero/)
 - Twitter: [@hornero_rosa](https://x.com/hornero_rosa)
+
+## License
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to use, modify, and distribute it as long as this license is respected.
 

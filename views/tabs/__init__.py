@@ -1,3 +1,6 @@
+# This project is licensed under the MIT License.
+# See the LICENSE file for more details.
+
 from .summary import render_summary_tab
 from .arsenal import render_arsenal_tab
 from .aston_villa import render_aston_villa_tab
